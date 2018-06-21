@@ -7,15 +7,15 @@ This repository contains the analysis of two topics in Machine Learning; Distanc
 Among Distance Based Outlier Detection Algorithms, two of them; k-th neares neighbor as known as dee-kay-en, and one-time sampling 
 have been implemented in the following files:
 
-*kth_NN.py*
-*sampling.py*
+* kth_NN.py
+* sampling.py
 
 ## Clustering Algorithm
 
 K-Means and Bisecting K-Means have been implemented in the following two files:
 
-*kmeans_numpy.py*
-*bikmeans_numpy.py*
+* kmeans_numpy.py
+* bikmeans_numpy.py
 
 ## Ipython Notebooks:
 
